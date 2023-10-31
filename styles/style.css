@@ -171,6 +171,7 @@ nav {
     }
     .home-title {
         font-size: 25px;
+        color: #d9c2a3;
     }
     .rivers-card, .camping-card, .rapids-card { 
         margin: 50px auto;
