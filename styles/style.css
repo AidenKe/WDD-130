@@ -45,8 +45,8 @@ footer p a:hover {
 }
 .home-title {
     font-family: 'Rock Salt', sans-serif;
-    font-size: 2em;
-    color: #d9c2a3;
+    font-size: 4em;
+    color: #000000;
 }
 .msg {
     background-color: #6f7364;
@@ -171,7 +171,7 @@ nav {
     }
     .home-title {
         font-size: 25px;
-        color: #d9c2a3;
+        color: #000000;
     }
     .rivers-card, .camping-card, .rapids-card { 
         margin: 50px auto;
